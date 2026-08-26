@@ -1,0 +1,36 @@
+session,phase,event_type,target_bpm,reference_hz,channel,device,estimated_bpm,error_bpm,absolute_error_bpm
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,0.1,tensometric,Pas tensometryczny,5.982020633311106,-0.017979366688893883,0.017979366688893883
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,0.2,tensometric,Pas tensometryczny,12.022904975057225,0.022904975057224775,0.022904975057224775
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,0.3333333333333333,tensometric,Pas tensometryczny,20.105316173066583,0.10531617306658347,0.10531617306658347
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,0.1,pressure,Pas barometryczny,5.977547902399292,-0.02245209760070832,0.02245209760070832
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,0.2,pressure,Pas barometryczny,12.023244140490537,0.02324414049053658,0.02324414049053658
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,0.3333333333333333,pressure,Pas barometryczny,20.104807075391896,0.10480707539189638,0.10480707539189638
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,0.1,temperature_mouth,Urządzenie z czujnikami temperatury - usta,6.105628044211785,0.10562804421178473,0.10562804421178473
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,0.2,temperature_mouth,Urządzenie z czujnikami temperatury - usta,11.99958270421552,-0.0004172957844801317,0.0004172957844801317
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,0.3333333333333333,temperature_mouth,Urządzenie z czujnikami temperatury - usta,20.169687544680986,0.16968754468098624,0.16968754468098624
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,0.1,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,5.990508174305281,-0.009491825694719402,0.009491825694719402
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,0.2,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,12.022078133188195,0.02207813318819518,0.02207813318819518
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,0.3333333333333333,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,20.099892735297225,0.09989273529722453,0.09989273529722453
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,0.1,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,5.9795515215498245,-0.0204484784501755,0.0204484784501755
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,0.2,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,12.006257271435254,0.006257271435254452,0.006257271435254452
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,0.3333333333333333,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,20.11706032281661,0.11706032281660939,0.11706032281660939
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,0.2,tensometric,Pas tensometryczny,11.907934439716058,-0.09206556028394175,0.09206556028394175
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,0.3333333333333333,tensometric,Pas tensometryczny,20.040676265182636,0.04067626518263623,0.04067626518263623
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,0.2,pressure,Pas barometryczny,11.894098775186691,-0.10590122481330866,0.10590122481330866
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,0.3333333333333333,pressure,Pas barometryczny,20.03920911330132,0.03920911330132171,0.03920911330132171
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,0.2,temperature_mouth,Urządzenie z czujnikami temperatury - usta,14.101251049334717,2.101251049334717,2.101251049334717
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,0.3333333333333333,temperature_mouth,Urządzenie z czujnikami temperatury - usta,19.72237381795161,-0.2776261820483903,0.2776261820483903
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,0.2,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,11.9122579294521,-0.0877420705479004,0.0877420705479004
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,0.3333333333333333,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,20.057075115051695,0.05707511505169549,0.05707511505169549
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,0.2,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,11.902317524545166,-0.09768247545483355,0.09768247545483355
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,0.3333333333333333,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,20.05978262193665,0.059782621936651736,0.059782621936651736
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,0.3333333333333333,tensometric,Pas tensometryczny,20.164398611031345,0.1643986110313449,0.1643986110313449
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,0.3333333333333333,tensometric,Pas tensometryczny,20.03670172260625,0.036701722606249376,0.036701722606249376
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,0.3333333333333333,temperature_mouth,Urządzenie z czujnikami temperatury - usta,20.085749805236574,0.08574980523657416,0.08574980523657416
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,0.3333333333333333,temperature_mouth,Urządzenie z czujnikami temperatury - usta,20.0786611548976,0.07866115489759906,0.07866115489759906
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,0.3333333333333333,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,20.16091184046333,0.1609118404633314,0.1609118404633314
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,0.3333333333333333,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,20.057336753546977,0.05733675354697709,0.05733675354697709
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,0.3333333333333333,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,20.17532146661968,0.1753214666196783,0.1753214666196783
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,0.3333333333333333,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,20.02833180046809,0.028331800468091473,0.028331800468091473
+session_20260821_walk_run_pressure,walking,WALK_RUN_WALKING_START,20.0,0.3333333333333333,pressure,Pas barometryczny,20.160609816059758,0.16060981605975755,0.16060981605975755
+session_20260821_walk_run_pressure,running,WALK_RUN_RUNNING_START,20.0,0.3333333333333333,pressure,Pas barometryczny,20.406705049633658,0.4067050496336577,0.4067050496336577

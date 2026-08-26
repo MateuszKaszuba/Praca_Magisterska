@@ -1,0 +1,6 @@
+session_id,timestamp_ms,datetime_iso,event_type,note
+session_20260821_142610_P001,0,2026-08-21T14:26:10.941219,SESSION_START,Start sesji
+session_20260821_142610_P001,0,2026-08-21T14:26:10.941825,WALK_RUN_PREPARATION_START,phase=preparation;duration_s=10;mode=walk_run_test
+session_20260821_142610_P001,10001,2026-08-21T14:26:20.942609,WALK_RUN_WALKING_START,phase=walking;duration_s=60;target_bpm=20;mode=walk_run_test
+session_20260821_142610_P001,70028,2026-08-21T14:27:20.969323,WALK_RUN_RUNNING_START,phase=running;duration_s=60;target_bpm=20;mode=walk_run_test
+session_20260821_142610_P001,130028,2026-08-21T14:28:20.970143,SESSION_STOP,Automatyczny koniec protokołu

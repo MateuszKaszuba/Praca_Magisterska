@@ -1,0 +1,28 @@
+session_id,timestamp_ms,datetime_iso,event_type,note
+session_20260625_195259_P001,0,2026-06-25T19:52:59.444723,SESSION_START,Start sesji
+session_20260625_195259_P001,0,2026-06-25T19:52:59.445253,VARIABLE_SITTING_METRONOME_10_START,phase=sitting;segment=1;target_bpm=10;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,10017,2026-06-25T19:53:09.462042,VARIABLE_SITTING_METRONOME_15_START,phase=sitting;segment=2;target_bpm=15;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,20031,2026-06-25T19:53:19.476442,VARIABLE_SITTING_METRONOME_20_START,phase=sitting;segment=3;target_bpm=20;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,30073,2026-06-25T19:53:29.518627,VARIABLE_SITTING_METRONOME_25_START,phase=sitting;segment=4;target_bpm=25;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,40075,2026-06-25T19:53:39.519748,VARIABLE_SITTING_METRONOME_10_START,phase=sitting;segment=5;target_bpm=10;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,50081,2026-06-25T19:53:49.525972,VARIABLE_SITTING_METRONOME_15_START,phase=sitting;segment=6;target_bpm=15;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,60081,2026-06-25T19:53:59.526583,VARIABLE_SITTING_METRONOME_20_START,phase=sitting;segment=7;target_bpm=20;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,70099,2026-06-25T19:54:09.544226,VARIABLE_SITTING_METRONOME_25_START,phase=sitting;segment=8;target_bpm=25;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,80103,2026-06-25T19:54:19.547762,VARIABLE_SITTING_METRONOME_10_START,phase=sitting;segment=9;target_bpm=10;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,90107,2026-06-25T19:54:29.552135,VARIABLE_SITTING_METRONOME_15_START,phase=sitting;segment=10;target_bpm=15;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,100136,2026-06-25T19:54:39.581132,VARIABLE_SITTING_METRONOME_20_START,phase=sitting;segment=11;target_bpm=20;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,110171,2026-06-25T19:54:49.616627,VARIABLE_SITTING_METRONOME_25_START,phase=sitting;segment=12;target_bpm=25;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,120180,2026-06-25T19:54:59.625149,VARIABLE_METRONOME_BREAK_START,phase=break;duration_s=10;target_bpm=0;mode=variable_metronome
+session_20260625_195259_P001,130198,2026-06-25T19:55:09.643549,VARIABLE_WALKING_METRONOME_10_START,phase=walking;segment=1;target_bpm=10;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,140227,2026-06-25T19:55:19.672100,VARIABLE_WALKING_METRONOME_15_START,phase=walking;segment=2;target_bpm=15;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,150255,2026-06-25T19:55:29.700295,VARIABLE_WALKING_METRONOME_20_START,phase=walking;segment=3;target_bpm=20;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,160286,2026-06-25T19:55:39.731010,VARIABLE_WALKING_METRONOME_25_START,phase=walking;segment=4;target_bpm=25;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,170313,2026-06-25T19:55:49.758419,VARIABLE_WALKING_METRONOME_10_START,phase=walking;segment=5;target_bpm=10;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,180320,2026-06-25T19:55:59.764957,VARIABLE_WALKING_METRONOME_15_START,phase=walking;segment=6;target_bpm=15;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,190322,2026-06-25T19:56:09.766739,VARIABLE_WALKING_METRONOME_20_START,phase=walking;segment=7;target_bpm=20;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,200355,2026-06-25T19:56:19.800051,VARIABLE_WALKING_METRONOME_25_START,phase=walking;segment=8;target_bpm=25;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,210355,2026-06-25T19:56:29.800621,VARIABLE_WALKING_METRONOME_10_START,phase=walking;segment=9;target_bpm=10;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,220356,2026-06-25T19:56:39.801654,VARIABLE_WALKING_METRONOME_15_START,phase=walking;segment=10;target_bpm=15;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,230359,2026-06-25T19:56:49.803935,VARIABLE_WALKING_METRONOME_20_START,phase=walking;segment=11;target_bpm=20;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,240373,2026-06-25T19:56:59.817733,VARIABLE_WALKING_METRONOME_25_START,phase=walking;segment=12;target_bpm=25;duration_s=10;mode=variable_metronome
+session_20260625_195259_P001,250375,2026-06-25T19:57:09.819727,SESSION_STOP,Automatyczny koniec protokołu

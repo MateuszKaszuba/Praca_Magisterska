@@ -1,0 +1,73 @@
+{
+  "session_id": "session_20260821_142610_P001",
+  "participant_id": "P001",
+  "start_datetime": "2026-08-21T14:26:10.934679",
+  "end_datetime": "2026-08-21T14:28:20.970871",
+  "selected_protocol": "walk_run_test",
+  "devices_used": [
+    {
+      "device_type": "glasses",
+      "display_name": "Okulary BME280",
+      "ble_name": "ESP32S3_BME280_4x",
+      "service_uuid": "4fafc201-1fb5-459e-8fcc-c5c9c331914b",
+      "characteristic_uuid": "beb5483e-36e1-4688-b7f5-ea07361b26a8",
+      "nominal_sampling_hz": 5.0,
+      "parser_type": "glassesCsv8",
+      "csv_file_name": "raw_glasses.csv"
+    },
+    {
+      "device_type": "tensometricBelt",
+      "display_name": "Pas tensometryczny",
+      "ble_name": "Pas_Tensometryczny",
+      "service_uuid": "4fafc201-1fb5-459e-8fcc-c5c9c331914b",
+      "characteristic_uuid": "beb5483e-36e1-4688-b7f5-ea07361b26a8",
+      "nominal_sampling_hz": 10.0,
+      "parser_type": "rawHx711",
+      "csv_file_name": "raw_tensometric_belt.csv"
+    },
+    {
+      "device_type": "pressureBelt",
+      "display_name": "Pas barometryczny",
+      "ble_name": "Pas_Barometryczny",
+      "service_uuid": "4fafc201-1fb5-459e-8fcc-c5c9c331914b",
+      "characteristic_uuid": "beb5483e-36e1-4688-b7f5-ea07361b26a8",
+      "nominal_sampling_hz": 10.0,
+      "parser_type": "rawPressure",
+      "csv_file_name": "raw_pressure_belt.csv"
+    }
+  ],
+  "notes": "",
+  "app_version": "1.0.0+1",
+  "device_configs": [
+    {
+      "device_type": "glasses",
+      "display_name": "Okulary BME280",
+      "ble_name": "ESP32S3_BME280_4x",
+      "service_uuid": "4fafc201-1fb5-459e-8fcc-c5c9c331914b",
+      "characteristic_uuid": "beb5483e-36e1-4688-b7f5-ea07361b26a8",
+      "nominal_sampling_hz": 5.0,
+      "parser_type": "glassesCsv8",
+      "csv_file_name": "raw_glasses.csv"
+    },
+    {
+      "device_type": "tensometricBelt",
+      "display_name": "Pas tensometryczny",
+      "ble_name": "Pas_Tensometryczny",
+      "service_uuid": "4fafc201-1fb5-459e-8fcc-c5c9c331914b",
+      "characteristic_uuid": "beb5483e-36e1-4688-b7f5-ea07361b26a8",
+      "nominal_sampling_hz": 10.0,
+      "parser_type": "rawHx711",
+      "csv_file_name": "raw_tensometric_belt.csv"
+    },
+    {
+      "device_type": "pressureBelt",
+      "display_name": "Pas barometryczny",
+      "ble_name": "Pas_Barometryczny",
+      "service_uuid": "4fafc201-1fb5-459e-8fcc-c5c9c331914b",
+      "characteristic_uuid": "beb5483e-36e1-4688-b7f5-ea07361b26a8",
+      "nominal_sampling_hz": 10.0,
+      "parser_type": "rawPressure",
+      "csv_file_name": "raw_pressure_belt.csv"
+    }
+  ]
+}

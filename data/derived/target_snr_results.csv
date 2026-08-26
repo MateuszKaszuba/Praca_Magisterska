@@ -1,0 +1,211 @@
+session,phase,event_type,target_bpm,channel,device,method,p_reference,p_noise,snr_ref_db
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,tensometric,Pas tensometryczny,raw,4910755158824.075,243362368247.99857,13.048948585436476
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,tensometric,Pas tensometryczny,detrend,4910611580311.101,246109278919.4276,13.000075956817748
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,tensometric,Pas tensometryczny,SMA,4713105332693.246,193477098526.10028,13.866775799894047
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,tensometric,Pas tensometryczny,EMA,4002589438966.9805,138054618207.73938,14.622901058780386
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,tensometric,Pas tensometryczny,median,4829737297528.003,227825144686.39725,13.263218541868172
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,tensometric,Pas tensometryczny,S-G,4908412343729.728,233848173655.78152,13.220070571694919
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,tensometric,Pas tensometryczny,raw,3042287494884.59,285738768830.57715,10.27231083158169
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,tensometric,Pas tensometryczny,detrend,3042285206961.2803,275793487065.65985,10.426159197096993
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,tensometric,Pas tensometryczny,SMA,2573498490717.657,194600716530.2347,11.213794828543639
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,tensometric,Pas tensometryczny,EMA,1577352951068.1099,150000342345.38397,10.218366323983318
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,tensometric,Pas tensometryczny,median,2878322357215.658,253119347590.71323,10.5581408862498
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,tensometric,Pas tensometryczny,S-G,3020873912229.4043,242006053191.31702,10.963063697702292
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,tensometric,Pas tensometryczny,raw,2053781947960.4302,166363844805.99484,10.91495383525209
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,tensometric,Pas tensometryczny,detrend,2053781908525.611,163574491987.88904,10.988387437124182
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,tensometric,Pas tensometryczny,SMA,1264547267219.6282,93075124572.57816,11.33101441222314
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,tensometric,Pas tensometryczny,EMA,571113280379.1256,77877252615.98485,8.653116372376827
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,tensometric,Pas tensometryczny,median,1664255498084.969,150131756484.51022,10.447474346652172
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,tensometric,Pas tensometryczny,S-G,1948903063702.8796,119526701257.47339,12.123253044759698
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,pressure,Pas barometryczny,raw,1389938.8752454629,46048.6266800429,14.797790192384104
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,pressure,Pas barometryczny,detrend,1389909.5822945642,49562.146097511635,14.478364454817909
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,pressure,Pas barometryczny,SMA,1334039.5763857027,40179.943871700365,15.211593880650724
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,pressure,Pas barometryczny,EMA,1131482.2036405455,31224.80672630916,15.591479687234886
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,pressure,Pas barometryczny,median,1375188.0639594062,47024.35003285099,14.660392927290156
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,pressure,Pas barometryczny,S-G,1389287.4532696793,47285.31270437626,14.680658481623912
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,pressure,Pas barometryczny,raw,793663.7139471925,59661.711628964484,11.23940816317454
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,pressure,Pas barometryczny,detrend,793663.9696084238,60882.37351905943,11.151450896485017
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,pressure,Pas barometryczny,SMA,671380.7282834975,42817.40148319592,11.953485636915564
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,pressure,Pas barometryczny,EMA,411797.9425925526,32022.326078229944,11.09231296922663
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,pressure,Pas barometryczny,median,745370.6015094302,54541.32068034534,11.356466096821045
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,pressure,Pas barometryczny,S-G,788079.6151824846,54239.42286071942,11.622550342614545
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,pressure,Pas barometryczny,raw,403905.03864852217,26715.921186588024,11.79509117353196
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,pressure,Pas barometryczny,detrend,403905.0343443939,26448.397107634966,11.838799093667303
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,pressure,Pas barometryczny,SMA,248701.31020325143,15135.980294757954,12.156675195589962
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,pressure,Pas barometryczny,EMA,112323.61868548673,12139.05086048186,9.66286355462681
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,pressure,Pas barometryczny,median,322722.20670876483,23345.00395198065,11.40634898709342
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,pressure,Pas barometryczny,S-G,383280.403683011,19945.09585082377,12.836804875083786
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,raw,10.30917448285588,78.02995186773119,-8.790374488998621
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,detrend,10.299996215718254,75.59601705453531,-8.656618491837948
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,SMA,9.939488357717966,73.64171829622308,-8.697598840727967
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,EMA,8.475563598259113,74.08701154540687,-9.41573489910055
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,median,10.35797081139961,73.76042184810898,-8.525487090064672
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,S-G,10.295676158874278,74.64263278798634,-8.603320756296988
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,raw,9.999891435546694,123.49957202852907,-10.916701675279647
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,detrend,10.000362339984777,47.54033927416786,-6.77046540828454
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,SMA,8.469828120272885,46.04277130904105,-7.352868586737062
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,EMA,5.168245967295407,44.91720495689352,-9.390695493459202
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,median,8.865724622149711,47.503483675734266,-7.2901122227692605
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,S-G,9.930831341147389,46.78756664630223,-6.731448525762321
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,raw,10.735372164036809,134.28933001773362,-10.97224402339249
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,detrend,10.735267461901877,118.96868087780615,-10.446197771050832
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,SMA,6.599477389312296,116.065530157518,-12.451937142375243
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,EMA,2.974900181370311,109.26415294822736,-15.650053051382882
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,median,7.42694716777871,115.68353858581987,-11.924612300342222
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,S-G,10.183095814588869,117.67351258550055,-10.627988873103885
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,raw,4279.0766442680215,1016.7816672867582,6.241223581499352
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,detrend,4279.19533000688,679.0322830987833,7.994716885819707
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,SMA,4105.768135118638,529.5117540283117,8.895188148729433
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,EMA,3490.942509677368,378.79297274126003,9.645407832281217
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,median,4250.608309194772,662.9380201496137,8.069781599065658
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,S-G,4277.2423328523355,647.3493658970243,8.200251295551148
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,raw,2797.7108774208887,629.6331244174038,6.477152635912685
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,detrend,2797.6899461102876,291.58471999820955,9.820348203741405
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,SMA,2366.6778239914397,177.11604483980332,11.258812359587571
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,EMA,1450.3873295490102,128.82926095273754,10.51469481739586
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,median,2730.1073552824632,274.67467338848724,9.973611082473582
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,S-G,2778.0212235116624,248.05953801716805,10.49179628794868
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,raw,1891.4669460628993,256.5925768949132,8.675546679909361
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,detrend,1891.467661720419,143.52842870515278,11.198609902054802
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,SMA,1164.3778402933035,89.68731895957497,11.133628898662632
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,EMA,525.1808571426559,72.01471715609041,8.628876283598002
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,median,1666.4559255017682,143.97239546334214,10.63514601252738
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,S-G,1794.8033017889938,114.60114058123153,11.948279197871411
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,raw,15226.351371681218,1611.8179008307845,9.75279872859536
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,detrend,15227.587856979188,1326.9529411446802,10.597755924982224
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,SMA,14613.520270026356,1072.858511258149,11.342123953825734
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,EMA,12405.171996876477,742.3740458269933,12.229800100268452
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,median,15111.925954158176,1301.3271531587993,10.64933325192584
+session_20260623_constant_sitting,sitting,METRONOME_6_START,6.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,S-G,15220.724072329993,1287.82284187705,10.725791891302558
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,raw,9595.085793476694,1122.9762154713371,9.316783042451268
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,detrend,9595.067667265836,934.5377894100868,10.11451174449832
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,SMA,8121.220872207743,601.0971067458387,11.306766845350412
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,EMA,4985.723187776408,418.79674838024005,10.757248613103572
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,median,9346.900410690228,868.6211695854967,10.318372058401149
+session_20260623_constant_sitting,sitting,METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,S-G,9527.99853910476,823.501176716289,10.633374578080936
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,raw,5254.368950366449,373.98004164394297,11.476721390994584
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,detrend,5254.370178546809,296.4794240947178,12.485261078818423
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,SMA,3232.4226657534064,159.23792240872356,13.074816407077087
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,EMA,1457.8159395526118,108.46129907325523,11.284278926279299
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,median,4659.179584489436,308.2449223869527,11.794135189748104
+session_20260623_constant_sitting,sitting,METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,S-G,4985.211408425148,229.88738667512033,13.361684369027738
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,tensometric,Pas tensometryczny,raw,4269075219228.4746,1078685747657.949,5.974388663776375
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,tensometric,Pas tensometryczny,detrend,4269075807085.775,1077358753439.1107,5.979735221401827
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,tensometric,Pas tensometryczny,SMA,3611280326041.6875,683670365012.692,7.228144469025098
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,tensometric,Pas tensometryczny,EMA,2217188711932.4443,539409344363.19464,6.138841932560193
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,tensometric,Pas tensometryczny,median,3861569117030.18,846487580293.7667,6.5914322204413756
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,tensometric,Pas tensometryczny,S-G,4238684918589.603,828672772669.7849,7.088480649552638
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,tensometric,Pas tensometryczny,raw,2075117419376.2961,444590909406.7113,6.690820976649531
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,tensometric,Pas tensometryczny,detrend,2075113070617.0708,454852114493.5482,6.591715479412903
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,tensometric,Pas tensometryczny,SMA,1281216521833.0486,251124795587.56543,7.077329341941291
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,tensometric,Pas tensometryczny,EMA,581061606849.9099,167765934445.45734,5.395184005634917
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,tensometric,Pas tensometryczny,median,1510630698353.0046,353603058538.7838,6.306422931388842
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,tensometric,Pas tensometryczny,S-G,1969488241851.161,333538166754.01373,7.712078549580478
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,pressure,Pas barometryczny,raw,233597.4057824592,103828.58548298755,3.521510779982981
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,pressure,Pas barometryczny,detrend,233597.05209495925,103972.67105208778,3.515481567291834
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,pressure,Pas barometryczny,SMA,197543.50559569325,49996.30255408053,5.967248689245741
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,pressure,Pas barometryczny,EMA,121425.90403252447,36266.53741628962,5.248052526767646
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,pressure,Pas barometryczny,median,209310.22124828017,61073.65386499861,5.349365333726831
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,pressure,Pas barometryczny,S-G,231922.6642571371,69283.79596289611,5.247115173664568
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,pressure,Pas barometryczny,raw,172571.81490499643,66223.66158775595,4.159566767632219
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,pressure,Pas barometryczny,detrend,172571.80349267562,66345.19046492959,4.1516039259205675
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,pressure,Pas barometryczny,SMA,106337.30420436634,30483.806381483235,5.426164516273776
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,pressure,Pas barometryczny,EMA,48173.89505278836,20128.25157876436,3.7900571023215086
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,pressure,Pas barometryczny,median,113448.90957218684,42336.31246958031,4.280872980718883
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,pressure,Pas barometryczny,S-G,163740.24879109467,42892.49644134431,5.817741220257878
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,raw,33.28649113538953,611.4901599064614,-12.6412145594688
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,detrend,33.289096277235814,273.4711746626686,-9.146095508845779
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,SMA,27.487752588440742,248.59919449228286,-9.563604839386583
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,EMA,16.546852893584564,234.1292299145799,-11.507402307591075
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,median,30.33670524596931,255.5769773649283,-9.255533176159481
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,S-G,32.96227946622319,263.93096176450376,-9.034731031640883
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,raw,18.184702841096595,165.55347327857388,-9.592320880158343
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,detrend,18.18455843822986,174.669971208534,-9.825154887843997
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,SMA,11.35316678322408,162.00113707699438,-11.544010449561863
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,EMA,5.180900700757896,152.14599676315902,-14.678552612669446
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,median,15.5282253670262,165.66530352224282,-10.281097350148604
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,S-G,17.294441958777952,169.44098296940257,-9.911119090616587
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,raw,29792.070803640967,4601.956670667569,8.111581661548634
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,detrend,29792.075680901864,4604.423092509687,8.109255391787865
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,SMA,25221.558632413162,3300.9383522161183,8.831345078402919
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,EMA,15522.820050696731,2311.867609853228,8.270076625371688
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,median,28983.874775494023,4456.703935813807,8.131426603248336
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,S-G,29582.197402484395,4215.882812567574,8.461419003551905
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,raw,14751.232005802438,2128.3807201829245,8.407789773624355
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,detrend,14751.23628438988,2121.173052236485,8.422523184412182
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,SMA,9055.323184009063,1353.18734935193,8.255460258617
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,EMA,4094.7939859288763,886.6397664055311,6.644848509544721
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,median,13143.240444160754,2049.5685150379195,8.070400120826287
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,S-G,13985.50632609712,1801.2184444781963,8.901118085394458
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,raw,40162.7077347175,6660.448515154544,7.80319509297692
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,detrend,40162.706441929884,6658.204633680644,7.804658322399752
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,SMA,34000.15917077305,4721.962692193868,8.573583987499223
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,EMA,20892.460349161986,3163.4739650782376,8.198253219818325
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,median,38807.80364654077,6331.867516963912,7.873872448026358
+session_20260624_walking_12_20,walking,WALK_METRONOME_12_START,12.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,S-G,39879.80291267172,6130.153369001516,8.132816631714912
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,raw,21137.04937199666,3716.2531288656405,7.549390739680655
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,detrend,21137.05678736165,3816.602934780017,7.4336753428061275
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,SMA,12980.421894032888,2520.345815868756,7.118286739975066
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,EMA,5867.020538262168,1783.8630402830909,5.170561010458687
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,median,18386.738832023857,3581.7715408123577,7.1040682591085815
+session_20260624_walking_12_20,walking,WALK_METRONOME_20_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,S-G,20041.179082941093,3284.4079129838906,7.8546617901339175
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,tensometric,Pas tensometryczny,raw,73160251681.43097,121163047553.65561,-2.190949975502105
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,tensometric,Pas tensometryczny,detrend,73158815676.9751,41768278443.00423,2.4342009095314685
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,tensometric,Pas tensometryczny,SMA,44888471160.80986,26912192275.357132,2.2218573721947728
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,tensometric,Pas tensometryczny,EMA,20258966907.176876,20600019672.974934,-0.07250340094996231
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,tensometric,Pas tensometryczny,median,53664427906.40795,33278130169.616863,2.0752758771134325
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,tensometric,Pas tensometryczny,S-G,69367294571.06424,33146134385.33415,3.207218698932847
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,tensometric,Pas tensometryczny,raw,116793571033.06786,209544874657.28723,-2.538581052621045
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,tensometric,Pas tensometryczny,detrend,116795989639.08823,80233527249.846,1.6307204569345215
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,tensometric,Pas tensometryczny,SMA,73532196089.12503,60158535522.29189,0.8718028126204967
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,tensometric,Pas tensometryczny,EMA,33671408209.135956,47074816433.638336,-1.455273553011648
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,tensometric,Pas tensometryczny,median,77746646398.03873,62080222119.0725,0.9772840267750688
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,tensometric,Pas tensometryczny,S-G,111227271091.69232,70467766203.88367,1.9822077736529486
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,raw,0.6676110552906744,88.15207941525559,-21.207090415515474
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,detrend,0.6677957391522438,17.480423068828607,-14.179082956840045
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,SMA,0.4137238783485033,16.64722113159607,-16.046311612633943
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,EMA,0.18788754146770262,17.11422531308095,-19.594592616272013
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,median,0.4370632615375032,16.828305949658166,-15.854960968775773
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,S-G,0.6343032093084483,17.130959055806656,-14.314847683408052
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,raw,2.414585101847555,156.28366993588267,-18.11071084327083
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,detrend,2.4136855714716527,6.3552738583671555,-4.20453575383565
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,SMA,1.5313294368523853,5.534948580606662,-5.580449595849356
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,EMA,0.711455174898012,4.938559784213884,-8.414527728917907
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,median,1.6751874060690222,5.805204269708076,-5.397541066576334
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_mouth,Urządzenie z czujnikami temperatury - usta,S-G,2.300843013266455,5.951103026166917,-4.127104811584809
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,raw,1093.8263575922504,301.26319008810924,5.600023136790741
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,detrend,1093.836095222295,168.65254963773313,8.119593393433215
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,SMA,670.3773600497132,93.30515745087756,8.564136888225107
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,EMA,302.3078317855179,61.938893348004214,6.884859568198642
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,median,885.28186641821,137.01088076408513,8.103265103186587
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,S-G,1036.9299780496808,132.4158924269536,8.93809318447376
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,raw,1940.6444782489068,818.3871612786799,3.7498717327419593
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,detrend,1940.6402864804795,488.0191128989013,5.995082116703142
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,SMA,1196.7921657128459,258.6051982189754,6.653814872283499
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,EMA,540.853922800008,190.2489469641409,4.537577223709416
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,median,1574.7038227426656,381.57046925559246,6.1562412564217155
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_right,Urządzenie z czujnikami temperatury - prawe nozdrze,S-G,1841.5888793862846,384.06895152905525,6.80783483926797
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,raw,18389.61372615007,2848.8397108584313,8.099045925043843
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,detrend,18389.653549608676,2430.51343061708,8.78875522202366
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,SMA,11263.711867077836,1285.4523215096156,9.426255594748556
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,EMA,5088.483185544694,790.8991199038226,8.084672514995452
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,median,15830.084377203973,2167.128808538463,8.635985043072548
+session_20260821_walk_run_temp_tenso,walking,WALK_RUN_WALKING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,S-G,17430.76870006245,1887.4654009272729,9.654375406629502
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,raw,14669.948576757188,3468.4788411831955,6.2628954198353135
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,detrend,14669.94228660844,3171.2655830310487,6.651957909973959
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,SMA,9055.647111562761,1416.6943994574658,8.05643313169568
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,EMA,4097.5923614978465,913.1796712123157,6.519725166767412
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,median,12398.619220362603,2488.637969380082,6.974115994808594
+session_20260821_walk_run_temp_tenso,running,WALK_RUN_RUNNING_START,20.0,temperature_left,Urządzenie z czujnikami temperatury - lewe nozdrze,S-G,13923.396651661205,2337.73742874929,7.749494653128897
+session_20260821_walk_run_pressure,walking,WALK_RUN_WALKING_START,20.0,pressure,Pas barometryczny,raw,33727.72742118771,27701.312813486828,0.8548672782991585
+session_20260821_walk_run_pressure,walking,WALK_RUN_WALKING_START,20.0,pressure,Pas barometryczny,detrend,33727.72237149711,27956.272655556953,0.8150774686621859
+session_20260821_walk_run_pressure,walking,WALK_RUN_WALKING_START,20.0,pressure,Pas barometryczny,SMA,20692.06352156627,8707.177622916022,3.7592639897638196
+session_20260821_walk_run_pressure,walking,WALK_RUN_WALKING_START,20.0,pressure,Pas barometryczny,EMA,9282.904790156646,7060.847965962723,1.1882703577206697
+session_20260821_walk_run_pressure,walking,WALK_RUN_WALKING_START,20.0,pressure,Pas barometryczny,median,18120.37836934082,12332.28232621701,1.6712380329662566
+session_20260821_walk_run_pressure,walking,WALK_RUN_WALKING_START,20.0,pressure,Pas barometryczny,S-G,31979.21046681659,14801.38143292064,3.3456548668991157
+session_20260821_walk_run_pressure,running,WALK_RUN_RUNNING_START,20.0,pressure,Pas barometryczny,raw,97021.28057091469,53242.97736970885,2.6060466911073377
+session_20260821_walk_run_pressure,running,WALK_RUN_RUNNING_START,20.0,pressure,Pas barometryczny,detrend,97021.34226928328,54377.215527715154,2.5145031362447297
+session_20260821_walk_run_pressure,running,WALK_RUN_RUNNING_START,20.0,pressure,Pas barometryczny,SMA,59002.11512509009,27111.561750932437,3.377130449717047
+session_20260821_walk_run_pressure,running,WALK_RUN_RUNNING_START,20.0,pressure,Pas barometryczny,EMA,26577.643182352476,21036.705034603827,1.0153874896662005
+session_20260821_walk_run_pressure,running,WALK_RUN_RUNNING_START,20.0,pressure,Pas barometryczny,median,64589.83932734788,32960.493237277085,2.92170502127316
+session_20260821_walk_run_pressure,running,WALK_RUN_RUNNING_START,20.0,pressure,Pas barometryczny,S-G,91836.3998222967,34178.29203780033,4.292644938366847

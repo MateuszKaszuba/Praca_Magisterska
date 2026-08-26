@@ -1,0 +1,48 @@
+{
+  "session_id": "session_20260625_195259_P001",
+  "generated_at": "2026-06-25T19:57:09.827418",
+  "devices": {
+    "glasses": {
+      "device_type": "glasses",
+      "device_name": "Okulary BME280",
+      "ble_name": "ESP32S3_BME280_4x",
+      "sample_count": 1378,
+      "average_sampling_hz": 9.176,
+      "min_interval_ms": 38,
+      "max_interval_ms": 204,
+      "bad_frame_count": 0,
+      "nan_count": 0,
+      "disconnect_count": 1,
+      "valid_frame_percent": 100.0,
+      "status": "WARNING"
+    },
+    "tensometricBelt": {
+      "device_type": "tensometricBelt",
+      "device_name": "Pas tensometryczny",
+      "ble_name": "Pas_Tensometryczny",
+      "sample_count": 2494,
+      "average_sampling_hz": 9.964,
+      "min_interval_ms": 1,
+      "max_interval_ms": 242,
+      "bad_frame_count": 0,
+      "nan_count": 0,
+      "disconnect_count": 0,
+      "valid_frame_percent": 100.0,
+      "status": "OK"
+    },
+    "pressureBelt": {
+      "device_type": "pressureBelt",
+      "device_name": "Pas barometryczny",
+      "ble_name": "Pas_Barometryczny",
+      "sample_count": 2455,
+      "average_sampling_hz": 9.805,
+      "min_interval_ms": 1,
+      "max_interval_ms": 221,
+      "bad_frame_count": 0,
+      "nan_count": 0,
+      "disconnect_count": 0,
+      "valid_frame_percent": 100.0,
+      "status": "OK"
+    }
+  }
+}

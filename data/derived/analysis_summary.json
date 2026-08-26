@@ -1,0 +1,27 @@
+{
+  "analysis_parameters": {
+    "resample_hz": 8.0,
+    "reference_half_width_hz": 0.05,
+    "noise_band_hz": [
+      0.01,
+      2.0
+    ],
+    "respiration_band_hz": [
+      0.08,
+      0.7
+    ],
+    "ema_alpha": 0.15,
+    "window_lengths_s": [
+      5,
+      10,
+      20
+    ],
+    "window_step_s": 5.0
+  },
+  "row_counts": {
+    "sampling_statistics": 12,
+    "target_snr": 210,
+    "fft_stage_results": 35,
+    "window_rate_summary": 132
+  }
+}

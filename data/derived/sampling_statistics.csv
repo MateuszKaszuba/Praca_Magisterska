@@ -1,0 +1,13 @@
+session,device,samples,duration_s,effective_hz,median_interval_ms,p95_interval_ms,max_interval_ms
+session_20260623_constant_sitting,Urządzenie z czujnikami temperatury,4521,492.658,9.174721612152853,97.0,144.0,259.0
+session_20260623_constant_sitting,Pas tensometryczny,4407,442.263,9.962397939687472,91.0,139.0,270.0
+session_20260623_constant_sitting,Pas barometryczny,4831,492.75,9.802130898021309,93.0,142.0,236.0
+session_20260624_walking_12_20,Urządzenie z czujnikami temperatury,2202,239.975,9.1717887279925,103.0,159.0,213.0
+session_20260624_walking_12_20,Pas tensometryczny,2390,239.926,9.957236814684528,97.0,158.0,290.0
+session_20260624_walking_12_20,Pas barometryczny,2353,239.919,9.803308616658121,98.0,153.0,206.0
+session_20260625_variable_sit_walk,Urządzenie z czujnikami temperatury,1378,150.059,9.176390619689588,104.0,159.20000000000005,204.0
+session_20260625_variable_sit_walk,Pas tensometryczny,2494,250.191,9.964387208172957,96.0,153.0,242.0
+session_20260625_variable_sit_walk,Pas barometryczny,2455,250.288,9.804704979863198,97.0,159.0,221.0
+session_20260821_walk_run_temp_tenso,Urządzenie z czujnikami temperatury,1193,129.952,9.172617581876386,105.0,156.0,206.0
+session_20260821_walk_run_temp_tenso,Pas tensometryczny,1279,129.981,9.832206245528193,97.0,170.0,1076.0
+session_20260821_walk_run_pressure,Pas barometryczny,1275,129.873,9.8095832082111,91.0,138.0,181.0
